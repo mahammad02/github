@@ -1,0 +1,1 @@
+maven practice git practice jenkins practice nodes manage jenkins with git and maven
